@@ -35,6 +35,7 @@
 }
 .botao.seta {
   display: flex;
+  align-items: center;
 }
 .botao.seta::after {
 content: "";
