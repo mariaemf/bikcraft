@@ -4,6 +4,7 @@
 }
 .bicicletas-listas h2 {
   margin-bottom: 40px;
+  color: var(--cor-0);
 
 }
 .bicicletas-listas ul {
@@ -14,6 +15,7 @@
   margin-left: auto;
   margin-right: auto;
   overflow-x: auto;
+  color: var(--cor-0);
 }
 .bicicletas-listas li {
   flex: 1;

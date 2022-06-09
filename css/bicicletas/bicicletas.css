@@ -38,6 +38,7 @@ align-content: start;
   margin-bottom: 20px;
   grid-column: 1;
   text-align:left;
+  color: var(--cor-0);
 }
 .bicicletas h2::before {
 content: "";
