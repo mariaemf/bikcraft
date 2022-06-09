@@ -1,3 +1,6 @@
+body {
+  background: var(--cor-0);
+}
 .bicicletas-bg {
  background: var(--cor-0);
   background-image: linear-gradient(to right, var(--cor-0) 30%, var(--cor-11) 0%);
