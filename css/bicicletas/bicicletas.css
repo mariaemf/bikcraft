@@ -13,6 +13,7 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
 .bicicletas-imagem {
   display: grid;
 }
@@ -39,9 +40,12 @@ align-content: start;
   grid-column: 1/-1 ;
 } 
 .bicicletas h2 {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   grid-column: 1;
   text-align:left;
+  color: var(--cor-12);
+}
+.magic {
   color: var(--cor-0);
 }
 .bicicletas h2::before {
@@ -79,7 +83,7 @@ margin-bottom: 8px;
     padding-top: 40px;
     padding-bottom: 40px;
   }
-  }
+  
   
 
 @media (max-width: 600px) {
@@ -93,5 +97,4 @@ grid-template-columns: 1fr;
     font-size: 1rem;
     grid-template-columns: 1fr 1fr;
     margin-bottom: 32px;
-  }
-}
+  }}
