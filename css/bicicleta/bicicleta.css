@@ -8,6 +8,7 @@ body {
   gap: 40px;
   padding-top: 60px;
   padding-bottom: 60px;
+  
 }
 #bicicleta .titulo p {
   text-transform: uppercase;
@@ -106,7 +107,6 @@ body {
 }
 
 }
-
 
 .bicicletas-listas {
   background: var(--cor-0);
