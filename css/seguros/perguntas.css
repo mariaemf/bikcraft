@@ -1,16 +1,19 @@
+
 .perguntas {
   padding-bottom: 120px;
   padding-top: 120px;
+  background-color: var(--cor-1);
 }
 .perguntas h2 {
   margin-bottom: 60px;
+
 }
 .perguntas dl > div {
 padding: 20px;
 border-radius: 4px;
 }
 .perguntas dl > div:nth-child(odd) {
-  background-color: var(--cor-1);
+  background-color: var(--cor-0);
 }
 .perguntas button {
 display: grid;

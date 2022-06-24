@@ -1,5 +1,9 @@
-.seguros-bg{
+.seguros-bg {
   background: var(--cor-11);
+}
+
+.botao-seguros{
+  background-color: black;
 }
 .seguros { 
   padding-top: 60px;
